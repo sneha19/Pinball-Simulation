@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=angle\ bounces\ insertStore
+comment0.target=Bounce(double,\ int,\ java.util.LinkedList)
+comment0.text=\r\n\ Bounce\ Constructor\ which\ sets\ up\ \r\n\ the\ following\ parameters\r\n\r\n\ @param\ angle\r\n\ \ \ \ \ \ \ \ which\ represents\ the\ angle\ in\ radians\r\n\ @param\ bounces\r\n\ \ \ \ \ \ \ \ which\ represents\ the\ number\ of\ bounces\r\n\ @param\ insertStore\r\n\ \ \ \ \ \ \ \ which\ stores\ all\ the\ circle\ insertions\r\n
+comment1.params=
+comment1.target=double\ getAngle()
+comment1.text=\r\n\ Method\ getAngle\ which\ returns\ the\r\n\ angle\ in\ radians\ (decimal\ format)\r\n\r\n\ @return\ angle\r\n\ \ \ \ \ \ \ \ \ which\ represents\ the\ angle\ recorded\r\n\ \ \ \ \ \ \ \ \ to\ 16\ decimal\ places\r\n
+comment2.params=
+comment2.target=int\ getBounces()
+comment2.text=\r\n\ Method\ getBounces\ which\ returns\ the\r\n\ number\ of\ bounces\ (integer\ format)\r\n\r\n\ @return\ bounces\r\n
+comment3.params=bounces
+comment3.target=void\ setBounces(int)
+comment3.text=\r\n\ Method\ setBounces\ which\ sets\ the\r\n\ number\ of\ bounces\ based\ on\ user\ input\r\n\r\n\ @param\ bounces\r\n\ \ \ \ \ \ \ \ which\ represents\ the\ number\ of\ bounces\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Method\ toString\ which\ prints\ out\ all\ the\ \r\n\ information\ in\ a\ simple\ user\ friendly\ manner\r\n\r\n\ @return\ print\r\n\ \ \ \ \ \ \ \ \ which\ represents\ a\ line\ of\ the\ execution\r\n
+numComments=5

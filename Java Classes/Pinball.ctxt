@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pinball()
+comment0.text=\r\n\ Pinball\ Constructor\ which\ sets\ up\ a\ variety\ of\ \r\n\ elements\ for\ the\ applet\r\n
+comment1.params=paint
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Method\ paintComponent\ which\ defines\ the\ location\ for\ all\ the\ elements\r\n\ created\ in\ the\ applet\r\n\r\n\ @param\ paint\r\n\ \ \ \ \ \ \ \ which\ is\ the\ paint\ graphics\ object\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ This\ is\ the\ main\ method\ which\ run\ the\ full\ program\r\n\ applet\ and\ initializes\ the\ classes\ for\ user\ use\r\n
+numComments=3

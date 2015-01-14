@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=radius\ coordinates
+comment0.target=CreateCircle(double,\ double[])
+comment0.text=\r\n\ CreateCircle\ Constructor\ which\ creates\r\n\ a\ new\ circle\ object\ for\ use\r\n\r\n\ @param\ radius\r\n\ \ \ \ \ \ \ \ which\ represents\ the\ radius\ of\ the\ circle\r\n\ @param\ coordinates\r\n\ \ \ \ \ \ \ \ which\ represents\ the\ coordinates\ of\ the\ circle\r\n
+comment1.params=
+comment1.target=double\ getRadius()
+comment1.text=\r\n\ Method\ getRadius\ which\ returns\ the\ \r\n\ radius\ of\ the\ created\ circle\r\n\r\n\ @return\ radius\r\n\ \ \ \ \ \ \ \ \ which\ represents\ the\ radius\ of\ the\ circle\r\n
+comment2.params=
+comment2.target=double[]\ getCoordinates()
+comment2.text=\r\n\ Method\ getCoordinates\ which\ returns\ the\r\n\ coordinates\ of\ the\ created\ circle\r\n\r\n\ @return\ coordinates\r\n\ \ \ \ \ \ \ \ \ which\ represents\ the\ coordinates\ of\ the\ circle\r\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BounceList()
+comment0.text=\r\n\ BounceList\ Constructor\ which\ initializes\r\n\ the\ array\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Method\ toString\ which\ allows\ the\ user\r\n\ to\ see\ the\ array\ information\ in\ a\ well\ displayed\ and\ readable\r\n\ manner\ for\ his/her\ convenience\r\n\r\n\ @return\ print\r\n\ \ \ \ \ \ \ \ \ which\ represents\ a\ line\ of\ execution\r\n
+comment2.params=bounce
+comment2.target=void\ add(Bounce)
+comment2.text=\r\n\ Method\ add,\ adds\ a\ new\ Bounce\ run\r\n\ to\ the\ initialized\ array\ above\r\n\r\n\ @param\ bounce\r\n\ \ \ \ \ \ \ \ represents\ a\ new\ Bounce\ Object\r\n
+numComments=3
